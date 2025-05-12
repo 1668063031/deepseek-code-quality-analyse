@@ -1,0 +1,49 @@
+slug,total_testcases,total_correct,runtime_percentile,state,status_msg,memory_percentile,processed
+maximum-containers-on-a-ship,686,686,100,SUCCESS,88.06890000000001,Accepted,True
+unique-3-digit-even-numbers,930,930,96.37440000000002,SUCCESS,98.32789999999999,Accepted,True
+fruits-into-baskets-ii,904,904,49.179600000000015,SUCCESS,56.42510000000001,Accepted,True
+maximum-unique-subarray-sum-after-deletion,927,431,,SUCCESS,,Wrong Answer,True
+transform-array-by-parity,804,804,100,SUCCESS,11.337699999999984,Accepted,True
+check-if-digits-are-equal-in-string-after-operations-i,706,706,83.7814,SUCCESS,28.8077,Accepted,True
+maximum-difference-between-even-and-odd-frequency-i,805,805,35.5556,SUCCESS,50.76919999999999,Accepted,True
+maximum-difference-between-adjacent-elements-in-a-circular-array,962,962,64.97059999999999,SUCCESS,16.046999999999993,Accepted,True
+find-valid-pair-of-adjacent-digits-in-string,826,826,38.198499999999996,SUCCESS,86.94739999999999,Accepted,True
+sum-of-variable-length-subarrays,773,176,,SUCCESS,,Wrong Answer,True
+sum-of-good-numbers,803,803,22.810800000000008,SUCCESS,31.351400000000005,Accepted,True
+find-special-substring-of-length-k,812,812,44.823100000000004,SUCCESS,86.1074,Accepted,True
+zigzag-grid-traversal-with-skip,840,464,,SUCCESS,,Wrong Answer,True
+find-the-largest-almost-missing-integer,900,900,35.68770000000001,SUCCESS,25.278800000000015,Accepted,True
+count-partitions-with-even-sum-difference,616,616,100,SUCCESS,99.06429999999999,Accepted,True
+maximum-subarray-with-equal-products,865,865,57.88030000000002,SUCCESS,54.34780000000001,Accepted,True
+minimum-operations-to-make-columns-strictly-increasing,722,722,76.01920000000001,SUCCESS,52.278199999999984,Accepted,True
+count-subarrays-of-length-three-with-a-condition,1691,1691,37.08100000000002,SUCCESS,93.23279999999998,Accepted,True
+substring-matching-pattern,969,866,,SUCCESS,,Wrong Answer,True
+smallest-number-with-all-set-bits,608,599,,SUCCESS,,Wrong Answer,True
+minimum-number-of-operations-to-make-elements-in-array-distinct,781,781,64.8102,SUCCESS,8.2146,Accepted,True
+transformed-array,695,695,41.46349999999996,SUCCESS,29.810299999999998,Accepted,True
+minimum-positive-sum-subarray,889,889,58.908699999999996,SUCCESS,62.806200000000004,Accepted,True
+check-balanced-string,868,868,53.125,SUCCESS,38.970600000000005,Accepted,True
+button-with-longest-push-time,588,588,100,SUCCESS,11.031099999999999,Accepted,True
+smallest-divisible-digit-product-i,1000,1000,100,SUCCESS,42.857200000000006,Accepted,True
+stone-removal-game,53,27,,SUCCESS,,Wrong Answer,True
+minimum-operations-to-make-array-values-equal-to-k,969,899,,SUCCESS,,Wrong Answer,True
+find-the-original-typed-string-i,780,780,11.144600000000008,SUCCESS,6.927700000000009,Accepted,True
+make-array-elements-equal-to-zero,584,584,17.266800000000018,SUCCESS,10.431700000000006,Accepted,True
+adjacent-increasing-subarrays-detection-i,1422,1223,,SUCCESS,,Wrong Answer,True
+find-x-sum-of-all-k-long-subarrays-i,906,906,46.1958,SUCCESS,97.02710000000002,Accepted,True
+minimum-element-after-replacement-with-digit-sum,835,835,45.442800000000005,SUCCESS,21.410200000000003,Accepted,True
+construct-the-minimum-bitwise-array-i,658,658,30.87479999999996,SUCCESS,73.61110000000001,Accepted,True
+find-the-k-th-character-in-string-game-i,502,502,57.14280000000001,SUCCESS,16.7666,Accepted,True
+find-indices-of-stable-mountains,805,805,15.361900000000006,SUCCESS,16.54370000000001,Accepted,True
+the-two-sneaky-numbers-of-digitville,706,706,24.985199999999995,SUCCESS,99.1202,Accepted,True
+find-the-key-of-the-numbers,757,757,100,SUCCESS,38.00529999999999,Accepted,True
+convert-date-to-binary,503,503,14.703599999999993,SUCCESS,51.38340000000001,Accepted,True
+final-array-state-after-k-multiplication-operations-i,737,737,51.7561,SUCCESS,94.367,Accepted,True
+check-if-two-chessboard-squares-have-the-same-color,506,506,69.14400000000002,SUCCESS,84.90019999999998,Accepted,True
+count-substrings-that-satisfy-k-constraint-i,780,780,36.62239999999999,SUCCESS,18.975199999999983,Accepted,True
+snake-in-matrix,983,983,100,SUCCESS,9.833099999999991,Accepted,True
+find-the-number-of-winning-players,839,839,37.4046,SUCCESS,72.1375,Accepted,True
+design-neighbor-sum-service,652,652,58.95970000000004,SUCCESS,37.2833,Accepted,True
+find-if-digit-game-can-be-won,897,897,44.455,SUCCESS,34.50229999999999,Accepted,True
+find-the-winning-player-in-coin-game,,,,,,提交失败，状态码: 403,True
+number-of-bit-changes-to-make-two-integers-equal,682,682,100,SUCCESS,59.46539999999999,Accepted,True
